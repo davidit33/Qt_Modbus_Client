@@ -10,6 +10,6 @@ The MODBUS protocol allows an easy communication within all types of network arc
 Check here for more information about Modbus
 https://en.wikipedia.org/wiki/Modbus
 
-This softwares is a Modbus TCP Client and was developed on Qt
-You can see the sofware workin in this link:
+This softwares is a Modbus TCP Client and was developed in Qt
+You can see the sofware working in this link:
 https://youtu.be/80lYV0ZqiZ4
