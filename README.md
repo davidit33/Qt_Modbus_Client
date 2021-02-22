@@ -11,3 +11,5 @@ Check here for more information about Modbus
 https://en.wikipedia.org/wiki/Modbus
 
 This softwares is a Modbus TCP Client and was developed on Qt
+You can see the sofware workin in this link:
+https://youtu.be/80lYV0ZqiZ4
