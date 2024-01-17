@@ -6,10 +6,3 @@ MODBUS continues to grow. The Internet community can access MODBUS at a reserved
 MODBUS is a request/reply protocol and offers services specified by function codes.
 MODBUS function codes are elements of MODBUS request/reply PDUs
 The MODBUS protocol allows an easy communication within all types of network architectures.
-
-Check here for more information about Modbus
-https://en.wikipedia.org/wiki/Modbus
-
-This softwares is a Modbus TCP Client and was developed in Qt
-You can see the sofware working in this link:
-https://youtu.be/80lYV0ZqiZ4
